@@ -25,22 +25,23 @@ Hasil dari identifikasi 4 objek disekitar saya , yang diantaranya 2 objek adalah
 Gambar 
 1. Sepatu
 <img src="Sepatu.png">
-•	Value : ukuran, merek, warna
-•	Behavior : tambah ukuran. Kurang ukuran, pilih warna, pilih merek
+•   Value : ukuran, merek, warna
+•   Behavior : tambah ukuran. Kurang ukuran, pilih warna, pilih merek
 
 2. TV
 <img src="TV.png">
-•	Value : merek, channel,volume
-•	Behavior : set merek, set channel, tambah volume, kurang volume
+•   Value : merek, channel,volume
+•   Behavior : set merek, set channel, tambah volume, kurang volume
 
 3. Mesin Jahit
 <img src="Jahit.png">
-•	Value : merek, warna benang, kecepatan(pedal), tuas jarak, pola jahitan
-•	Behavior : set merek, set warna benang, tambah kecepatan, kurang kecepatan, set jarak jahitan, berapa pola
+•   Value : merek, warna benang, kecepatan(pedal), tuas jarak, pola jahitan
+•   Behavior : set merek, set warna benang, tambah kecepatan, kurang kecepatan, set jarak jahitan, berapa pola
 
 4. Mesin Obras
 <img rsc="Obras.png">
-•	Value : merek, 3-4 benang, kecepatan(pedal)
-•	Behavior: set merek, set jumlah benang, tambah kecepatan, kurang kecepatan
+•   Value : merek, 3-4 benang, kecepatan(pedal)
+•   Behavior: set merek, set jumlah benang, tambah kecepatan, kurang kecepatan
 
  
+
